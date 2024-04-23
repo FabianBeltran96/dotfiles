@@ -1,0 +1,8 @@
+[user]
+	email = fabianbeltran1224@mail.com
+	name = Fabian Beltran
+[core]
+	editor = nvim
+
+[push]
+	autoSetupRemote = true
